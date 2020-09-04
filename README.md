@@ -1,3 +1,5 @@
-# Nutri-Aparecida
+# Aparecida Nutrição
 
-Controle e Cálculo IMC
+Nutri: Aparecida
+
+Controle e Cálculo IMC dos Pacientes
